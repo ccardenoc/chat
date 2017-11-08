@@ -1,0 +1,15 @@
+{
+  "name": "chat2",
+  "version": "1.0.0",
+  "description": "My second chat example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "CCardenoC",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.0.4"
+  }
+}
